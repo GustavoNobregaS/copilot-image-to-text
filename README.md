@@ -12,6 +12,6 @@ Utilizei 4 imagens de textos manuscritos, que foram adicionadas na pasta [inputs
 
 Os resultados foram bem satisfatórios, identificando até mesmo imagens mal iluminadas ou com algum borrão. Embora o reconhecimento tenha sido correto, os textos presentes no Cartaz de Oferta foram identificados de baixo para cima, o que não segue a forma natural de leitura das pessoas, como é possível ver abaixo:
 
-<img title="" src="file:///C:/Users/leand/Downloads/dio/copilot-image-to-text/inputs/img3_cartaz_oferta.jpg" alt="img3_cartaz_oferta" style="zoom:33%;">![Captura de tela 2024-09-12 073316](C:\Users\leand\Downloads\dio\Captura%20de%20tela%202024-09-12%20073316.png)
+<img src="https://github.com/GustavoNobregaS/copilot-image-to-text/blob/main/inputs/img3_cartaz_oferta.jpg" alt="img3_cartaz_oferta" width="33%"/>
 
-
+![img3_output](https://github.com/user-attachments/assets/5a9f0128-c3c9-42ed-94a3-e641d0988a15)
